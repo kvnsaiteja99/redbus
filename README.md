@@ -113,13 +113,10 @@ In this project , we have tried to make a perfect clone of redbus.in.
   
   ### Contributors:
 
-  * Nitansh Rastogi
+ * K Sai Teja
 
-    * Github : [nitansh11](https://github.com/nitansh11)
+    * Github : [kvnsaiteja99](https://github.com/kvnsaiteja99)
 
-  * Uditanshu Kumar
-
-    * Github : [udit22022000](https://github.com/udit22022000)
 
   * Rohan Kumar Banarwal
 
